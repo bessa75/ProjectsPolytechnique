@@ -13,7 +13,7 @@ Our work was based on this article which was a survey of current computer vision
 
 Many thanks to my groupmate Ivan Tchomba-Ngueko.
 
-## Analyzing Fairness in the COMPAS case (January 2024)
+## Analyzing Fairness on the COMPAS case (January 2024)
 This was a separate research project in my curriculum, where my group analyzed the state-of-the-art of fairness in AI in relation to the COMPAS/ProPublica case. We then provided an improved algorithm with XGBoost, providing similar accuracy and what we believed is a better tradeoff between the different fairness metrics. 
 
 The folder contains our report and the corresponding notebooks, which are separated in for/against arguments to recreate the COMPAS/ProPublica case.
