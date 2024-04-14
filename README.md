@@ -20,3 +20,9 @@ The folder contains our report and the corresponding notebooks, which are separa
 
 Many thanks to our supervisor Jean-Michel Loubes, and my fellow groupmates Antoine Martinez and Céleste Gallien.
 
+## Clustering on Web Graphs : Hate Crime articles dataset (March 2023)
+This project was part of the applied course INF473G "Mining, learning, and reasoning on Web Graphs" of Oana Balalau and Pierre Bourhis. We used a dataset of articles about hate crimes (https://www.kaggle.com/datasets/johnybhiduri/us-crime-data) and carried out clustering methods to group articles referring to a same event. We leveraged methods from NLP and Graph Theory. We then used a random process to generate new hate crime article names based on our dataset.
+
+The folder contains the report and the corresponding code. The modularity maximization is not coded here since it was done using Gephi.
+
+Special thanks to our supervisors Oana Balalau and Pierre Bourhis, and my groupmate Auguste Crabeil.
